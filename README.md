@@ -1,1 +1,1 @@
-# Master of Science Projects 2021- 2022
+# CMP5101 - Data Mining Final Project
